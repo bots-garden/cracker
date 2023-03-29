@@ -1,0 +1,4 @@
+WASM_PACKAGE="zig_wasm_io"
+WASM_VERSION="0.0.1"
+WASM_MODULE="HelloZig.wasm"
+WASM_FILE="./zig-out/HelloZig.wasm"

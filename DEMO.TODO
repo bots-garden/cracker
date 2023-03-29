@@ -1,0 +1,18 @@
+
+## Cracker, my wasm runner is a Vert.x HTTP server
+
+- Show and explain the source code
+
+## I did 4 Wasm Plugins
+
+- Go (with TinyGo)
+- Rust
+- JavaScript
+- Zig
+
+### Show code
+
+### Show the publication to the GitLab registry
+
+## Run the demo
+

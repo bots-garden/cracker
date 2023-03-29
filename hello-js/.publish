@@ -1,0 +1,4 @@
+WASM_PACKAGE="js_wasm_io"
+WASM_VERSION="0.0.1"
+WASM_MODULE="hello-js.wasm"
+WASM_FILE="./hello-js.wasm"
